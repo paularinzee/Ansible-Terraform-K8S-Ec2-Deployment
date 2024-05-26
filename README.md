@@ -45,7 +45,7 @@ loco@loco-Inspiron-3576:~/projects/Ansible-terraform$ tree
 - Terraform installed on your local machine.
 - Ansible installed on your local machine.
 -  #### SSH keypair for EC2 instance access. This is Important Because i have downloaded the keypair in this path
--  https://github.com/Mahfouz98/paularinzee/Ansible-Terraform-K8S-Ec2-Deployment/blob/dc08fadba91664ec370d80287c7bc364e0a093c8/roles/master-node/tasks/main.yaml#L155
+-  https://github.com/paularinzee/Ansible-Terraform-K8S-Ec2-Deployment/blob/dc08fadba91664ec370d80287c7bc364e0a093c8/roles/master-node/tasks/main.yaml#L155
 -  #### Please Change this location in the project for your desired path.
    
 - S3 bucket to save the statefile in, in mycase you can check 
